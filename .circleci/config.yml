@@ -36,4 +36,4 @@ jobs:
       # run tests!
       - run: npm test
       - store_test_results:
-           path: $CIRCLE_TEST_REPORTS/test-results.xml
+           path: test-results.xml

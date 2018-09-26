@@ -5,7 +5,7 @@
   "description": "Demo app for Web container demonstrations",
   "main": "app.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test -R spec -t 500 --recursive"
   },
   "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
   "license": "Will be full of vulnerabilities!",

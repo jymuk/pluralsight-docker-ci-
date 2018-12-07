@@ -1,7 +1,7 @@
 {
   "name": "container-web-test",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Demo app for Web container demonstrations",
   "main": "app.js",
   "scripts": {
